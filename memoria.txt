@@ -1,0 +1,2 @@
+É responsável por armazenar temporariamente os dados de um programa ou
+aplicativo.
